@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-chorus</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="sedaya-noch-verse"/>
   <readme>
     <ru>7fdffbe907f4e2c5dc8cdc3d46b1b407cf6bfe0a65d46fe65c37df22555404a9</ru>
@@ -30,14 +30,17 @@
     <bpm>129</bpm>
     <lowestNote>4</lowestNote>
     <tonalities>5</tonalities>
-    <video name="3-noch-2.mp4" size="1945042" type="video/mp4" volume="1">fb061229edf21cc77143a1de6ca697760d543746516bc1e200da2dbe3e44ed7b</video>
+    <video name="3-noch-2.mp4" size="1945042" type="video/mp4" volume="0.465">fb061229edf21cc77143a1de6ca697760d543746516bc1e200da2dbe3e44ed7b</video>
     <notes>
-      <note number="1" values="6" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
-      <note number="2" values="48" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
-      <note number="3" values="5" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
-      <note number="4" values="38" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
-      <note number="5" values="4" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
-      <note number="6" values="28" ticks="422" durationTicks="191" ppq="96" velocity="0.921"/>
+      <note number="1" values="18" ticks="96" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="28" ticks="145" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="38" ticks="241" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="48" ticks="288" durationTicks="121" ppq="96" velocity="0.921"/>
+      <note number="5" values="48" ticks="434" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="482" durationTicks="25" ppq="96" velocity="0.921"/>
+      <note number="7" values="38" ticks="528" durationTicks="44" ppq="96" velocity="0.921"/>
+      <note number="8" values="28" ticks="577" durationTicks="72" ppq="96" velocity="0.921"/>
+      <note number="9" values="28" ticks="672" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="3">
