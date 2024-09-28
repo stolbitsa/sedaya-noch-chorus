@@ -3,7 +3,7 @@
 
 # Седая ночь - Припев - Юрий Шатунов
 
-![Юрий Шатунов - Седая ночь (Посмертный клип, 2023) webm_snapshot_00 16 108](https://github.com/user-attachments/assets/81163d1c-6dac-40b9-abc8-f7807b1a082f)
+![Юрий Шатунов - Седая ночь (Посмертный клип, 2023) webm_snapshot_01 58 604](https://github.com/user-attachments/assets/027281fa-374c-4caa-8318-e436a77a0f67)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e7DGkk00OW8" title="Седая ночь - Вступление - Юрий Шатунов" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
@@ -14,7 +14,7 @@
 Music and lyrics by [Sergey Kuznetsov](https://en.wikipedia.org/wiki/Laskovyi_Mai)
 
 
-![Юрий Шатунов - Седая ночь (Посмертный клип, 2023) webm_snapshot_00 16 108](https://github.com/user-attachments/assets/81163d1c-6dac-40b9-abc8-f7807b1a082f)
+![Юрий Шатунов - Седая ночь (Посмертный клип, 2023) webm_snapshot_01 58 604](https://github.com/user-attachments/assets/027281fa-374c-4caa-8318-e436a77a0f67)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e7DGkk00OW8" title="Sedaya noch - Intro - Yuri Shatunov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
