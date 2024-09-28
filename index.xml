@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-chorus</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="sedaya-noch-verse"/>
   <readme>
     <ru>cdf4bd7e9d85ada1a6f79a6e444a389614e5784573236729325f30a534e6821b</ru>
@@ -76,16 +76,17 @@
   <exercise number="5">
     <scale>minor</scale>
     <bpm>129</bpm>
-    <lowestNote>6</lowestNote>
+    <lowestNote>4</lowestNote>
     <tonalities>5</tonalities>
     <video name="3-noch-5.mp4" size="1933627" type="video/mp4" volume="1">1dd00817e1454186bbdaa0af04c897cae63917097fdd5717e0334a49ce3ab836</video>
     <notes>
-      <note number="1" values="18" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
-      <note number="2" values="68" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
-      <note number="3" values="7" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
-      <note number="4" values="58" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
-      <note number="5" values="6" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
-      <note number="6" values="48" ticks="422" durationTicks="192" ppq="96" velocity="0.921"/>
+      <note number="1" values="5" ticks="192" durationTicks="94" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="287" durationTicks="25" ppq="96" velocity="0.787"/>
+      <note number="3" values="38" ticks="337" durationTicks="95" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="433" durationTicks="24" ppq="96" velocity="0.921"/>
+      <note number="5" values="28" ticks="482" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="18" ticks="528" durationTicks="73" ppq="96" velocity="0.921"/>
+      <note number="7" values="18" ticks="625" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="6">
