@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-chorus</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="sedaya-noch-verse"/>
   <readme>
     <ru>cdf4bd7e9d85ada1a6f79a6e444a389614e5784573236729325f30a534e6821b</ru>
@@ -20,8 +20,8 @@
       <note number="2" values="38" ticks="384" durationTicks="26" ppq="96" velocity="0.787"/>
       <note number="3" values="38" ticks="433" durationTicks="93" ppq="96" velocity="0.734"/>
       <note number="4" values="28" ticks="528" durationTicks="24" ppq="96" velocity="0.921"/>
-      <note number="5" values="28" ticks="577" durationTicks="94" ppq="96" velocity="0.792"/>
-      <note number="6" values="18" ticks="673" durationTicks="22" ppq="96" velocity="0.921"/>
+      <note number="5" values="28" ticks="578" durationTicks="24" ppq="96" velocity="0.792"/>
+      <note number="6" values="18" ticks="624" durationTicks="71" ppq="96" velocity="0.921"/>
       <note number="7" values="18" ticks="721" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
