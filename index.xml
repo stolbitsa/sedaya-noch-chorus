@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-chorus</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="sedaya-noch-verse"/>
   <readme>
-    <ru>cdf4bd7e9d85ada1a6f79a6e444a389614e5784573236729325f30a534e6821b</ru>
-    <en>e7b10e5d49cb320a45d32df38ad9a73527c7ffa4c7d4d4abe3e2f66001d0507b</en>
+    <ru>9ab341cc740cd1315b898fd0d51869e350271ac86d25dbb8828604abfcfa4d1c</ru>
+    <en>01d7f753d457c9149ba400fe0e1470e98213f685be3267bc1783ed5216c812b5</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
